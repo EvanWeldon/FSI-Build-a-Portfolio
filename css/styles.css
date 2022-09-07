@@ -1,0 +1,18 @@
+body {
+background-color:brown;
+font-family: 'Courier New', Courier, monospace;
+cursor: grab;
+}
+
+#code-image {
+    border-radius: 50px;
+    border: 5px solid black;
+    height: 50%;
+    width: 50%;
+}
+
+.header-centered{
+    text-align: center;
+}
+
+
